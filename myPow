@@ -1,5 +1,7 @@
 /*
 https://leetcode.com/problems/powx-n/
+아 이런 확장자 안붙였군.
+.js일꺼같음
 */
 
 myPow=Math.pow;
